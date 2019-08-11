@@ -32,12 +32,6 @@ public class DeptController {
         return dept;
     }
 
-
-    @RequestMapping("/deleteDept/{id}")
-    public boolean deleteDept(@PathVariable("id") Long deptId){
-        return deptService.deleteDeptById(deptId);
-    }
-
     public Dept processHytrixGet(@PathVariable("id") Long deptId){
 
         return new Dept().setDeptId(deptId)

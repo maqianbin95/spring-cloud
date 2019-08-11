@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-server-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-server-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-server-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-dept/pom.xml" />
+        <option value="$PROJECT_DIR$/../env-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-dept/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer-dept/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-provider-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-provider-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer-8088/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-sonsumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-clloud-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-client-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-provider-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-provider-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka-7001/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
